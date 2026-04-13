@@ -1,0 +1,63 @@
+.metade{
+  position: absolute;
+  background-color: #166534;
+  width: 30%;
+  height: 70%;
+    top: 23%;
+    left: 3%;
+}
+
+.metade1{
+  position: absolute;
+  background-color: #166534;
+  width: 30%;
+  height: 70%;
+    top: 23%;
+    left: 35%;
+}
+
+.metade2{
+  position: absolute;
+  background-color: #166534;
+  width: 30%;
+  height: 70%;
+    top: 23%;
+    left: 67%;
+}
+
+
+.nav{
+    background: #166534;
+    width: 100%;
+    height: auto;
+    
+}
+
+.nav ul li{
+    display: inline-block;
+    padding: 25px 20px 25px 20px;
+}
+
+.nav ul li a{
+    color: rgb(149, 147, 31);
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    text-decoration: none;
+    color: snow;
+}
+
+.navbar{
+    justify-content: space-between;
+    color: aliceblue;
+    text-align: center;
+}
+
+.btn-cad{
+    position: center;
+    background: rgb(0, 0, 0);
+    color: seashell;
+    padding: 12px;
+}
+
